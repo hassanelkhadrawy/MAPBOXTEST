@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MAPBOXTEST</string>
+    <string name="access_token">sk.eyJ1IjoiaGFzc2FuLXJhZ2FiIiwiYSI6ImNscnJtb3kxeDA1bDMya3M4MWN4ajI1MWQifQ.ZD6LJtqrH-I42pBqRhcNLQ</string>
+    <string name="access_token2">pk.eyJ1IjoiaGFzc2FuLXJhZ2FiIiwiYSI6ImNscnJtaTRxYTBhMXcyaW8xeHM5d2JkNWoifQ.0A_yh9QeDBjSiTREYS36aQ</string>
+    <string name="dialog_positive_button">dialog_positive_button</string>
+    <string name="dialog_negative_button">cancel</string>
+    <string name="end_progress_success">end_progress_success</string>
+    <string name="navigate_title">navigate_title</string>
+    <string name="navigate_positive_button">navigate_positive_button</string>
+    <string name="navigate_neutral_button_title">navigate_neutral_button_title</string>
+    <string name="toast_no_regions_yet">toast_no_regions_yet</string>
+    <string name="toast_region_deleted">toast_region_deleted</string>
+    <string name="navigate_negative_button_title">navigate_negative_button_title</string>
+    <string name="region_name">region_name</string>
+
+</resources>
